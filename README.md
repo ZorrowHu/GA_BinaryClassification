@@ -15,16 +15,4 @@ GA evolves torward better fitting individuals which means population's fitness s
 
 ![](https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/Iteration-Fitness.png)
 ## K-Means
-<img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-1.png" height="150"/>
-<img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-2.png" height="150"/>
-<img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-3.png" height="150"/>
-<img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-4.png" height="150"/>
-<img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-5.png" height="150"/>
-<img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-6.png" height="150"/>
-<img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-7.png" height="150"/>
-<img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-8.png" height="150"/>
-<img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-9.png" height="150"/>
-<img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-10.png" height="150"/>
-<img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-11.png" height="150"/>
-<img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-12.png" height="150"/>
-<img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-13.png" height="150"/>
+<img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-1.png" height="150"/><img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-2.png" height="150"/><img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-3.png" height="150"/><img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-4.png" height="150"/><img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-5.png" height="150"/><img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-6.png" height="150"/><img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-7.png" height="150"/><img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-8.png" height="150"/><img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-9.png" height="150"/><img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-10.png" height="150"/><img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-11.png" height="150"/><img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-12.png" height="150"/><img src="https://github.com/ZorrowHu/GA_BinaryClassification/blob/master/photos/K-Means-13.png" height="150"/>
